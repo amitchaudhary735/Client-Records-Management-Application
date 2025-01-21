@@ -1,0 +1,11 @@
+.custom-file-upload {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    border: 2px dashed #007bff;
+    border-radius: 4px;
+    text-align: center;
+    cursor: pointer;
+    color: #007bff;
+    font-weight: bold;
+}
